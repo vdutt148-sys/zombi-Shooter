@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Survival Shooter",
+  "description": "Top-down 2D apocalyptic zombie survival shooter featuring 8-directional movement, 360-degree aiming, weapon switching, zombie variants, blood decals, and procedural audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
